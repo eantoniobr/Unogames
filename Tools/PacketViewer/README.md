@@ -16,6 +16,9 @@ Para rodar é necessário a instalação do driver WinPcap (https://www.winpcap.
 
 Caso surgir algum erro de referência, as dlls estão todas na pasta "DLLs", basta referenciá-las novamente.
 
+## Download
+Caso desejarem baixar uma versão já compilada, deixei ai na pasta principal Build 1.0.0.zip
+
 
 ## Configuração
 
