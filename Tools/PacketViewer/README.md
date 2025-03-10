@@ -3,6 +3,10 @@
 
 Utilitário para visualização de packets do jogo
 
+## Imagem do app
+
+![Layout do app](VisualStudio2012StyleSample/C%23/Imagens%20app/Imagem.jpg)
+
 ## Observações
 
 Peço por favor para desconsiderarem o péssimo código C#, não é o meu padrão atual. 
