@@ -53,3 +53,9 @@ Observação adicional: O visualizador também captura em servidores executando 
 
 - CTRL + O = Limpar lista de packets
 - CTRL + C = Abre janela geradora de código C#
+
+## Agradecimentos especiais
+
+Agradeço ao Adanlink por disponibilizar o packetsniffer, utilizei o sniffer que faz parte deste projeto.
+Repositório do adanlink:
+https://github.com/Adanlink/pangya-sniffer
